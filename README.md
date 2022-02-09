@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 a programmer who never makes mistakes does not exist so 😌
 
 <!--
 **Mou-SED/Mou-SED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
