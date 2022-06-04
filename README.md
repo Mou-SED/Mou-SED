@@ -1,10 +1,10 @@
-<h2> Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"> a programmer who never makes mistakes does not exist so 😌</h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px" height="30px"> a programmer who never makes mistakes does not exist so 😌</h2>
 
 <h3 style="line-height:15px">My name is Moussa SEDDIK</h3>
 <h5 style="color:#919191; line-height:0px">Web Developer and Designer</h5>
 
 
-<p style="color:#ccb821">I have an interest in programming and more specifically in web development and artificial intelligence, so because of this I have oriented myself to the world of programming in the last months of 2019 after finishing my degree in physics I chose the 1337School which is owned by 42Network to improve my knowledge in the field of computer science and web development.</p>
+<p>I have an interest in programming and more specifically in web development and artificial intelligence, so because of this I have oriented myself to the world of programming in the last months of 2019 after finishing my degree in physics I chose the 1337School which is owned by 42Network to improve my knowledge in the field of computer science and web development.</p>
 
 - :earth_africa:  I'm based in Morrocco
 - :envelope:  You can contact me at [moseddik@student.1337.ma](mailto:moseddik@student.1337.ma)
