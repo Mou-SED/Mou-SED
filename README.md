@@ -1,4 +1,4 @@
-<h2> Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px" height="30px"> a programmer who never makes mistakes does not exist so 😌</h2>
+<h2> Hi there 👋 a programmer who never makes mistakes does not exist so 😌</h2>
 
 <h3 style="line-height:15px">My name is Moussa SEDDIK</h3>
 <h5 style="color:#919191; line-height:0px">Web Developer and Designer</h5>
