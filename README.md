@@ -101,12 +101,16 @@ Always Learning Something New 🫠​
 	</a>
 </p>
 
-### 42School Stats
-<div align="center"> 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/moseddik" alt="moseddik's 42 stats" width="55%" /></a>
+### Contributor's repo
+
+<div width="100%" align="center">
+	<a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
+		<img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=Cub3D-42-cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+	</a>
 </div>
 
 ### Github Stats
+
 | [![moseddik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mou-SED&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Mou-SED?tab=repositories) | [![moseddik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mou-SED&layout=compact&hide_border=true&theme=jolly)](https://github.com/Mou-SED?tab=repositories) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
