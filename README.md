@@ -101,7 +101,7 @@ Always Learning Something New 🫠​
 	</a>
 </p>
 
-### Contributor's repo
+### Collaborator's repo
 
 <div width="100%" align="center">
 	<a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
