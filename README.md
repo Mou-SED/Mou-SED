@@ -7,7 +7,7 @@
 <p>I have an interest in programming and more specifically in web development and artificial intelligence, so because of this I have oriented myself to the world of programming in the last months of 2019 after finishing my degree in physics I chose the 1337School which is owned by 42Network to improve my knowledge in the field of computer science and web development.</p>
 
 - :earth_africa:  I'm based in Morrocco
-- :envelope:  You can contact me at [moseddik@student.1337.ma](mailto:moseddik@student.1337.ma)
+- :envelope:  You can contact me at [moseddik@student.1337.ma](mailto:moseddik@student.1337.ma) / [moseddik.42@gmail.com](mailto:moseddik.42@gmail.com)
 - :bow_and_arrow:​ Aiming to be a AI web developer
 
 
