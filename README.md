@@ -73,24 +73,7 @@
 
 </p>
 
-<!-- ### <b>Top Repositories</b>
-
-<div width="100%" align="center">
-	<a href="https://github.com/Mou-SED/push_swap-42-cursus" align="left">
-		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mou-SED&repo=push_swap-42-cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-	</a>
-	<a href="https://github.com/Mou-SED/libft-42-cursus" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mou-SED&repo=libft-42-cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-	</a>
-</div>
-
 <br />
-<br />
-<br />
-<br />
-<br /> -->
-
-Always Learning Something New 🫠​
 
 <p align="center">
 	<a href="mailto:moseddik@student.1337.ma">
@@ -103,11 +86,33 @@ Always Learning Something New 🫠​
 
 ### Collaborator's repo
 
-<div width="100%" align="center">
-	<a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
-		<img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=Cub3D-42-cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-	</a>
-</div>
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/Archer-01/KingPong">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Archer-01&repo=KingPong&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/Mou-SED/WebServ_42">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mou-SED&repo=WebServ_42&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+			</a>
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			<a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=Cub3D-42-cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/Mou-SED/minishell-42-cursus">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mou-SED&repo=minishell-42-cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+			</a>
+		</td>
+	</tr>
+</table>
+
 
 ### Github Stats
 
